@@ -3,8 +3,8 @@
 
 include "vendor/autoload.php";
 
-use Mega\Mvc\category;
-use Mega\Mvc\model\user;
+use bdrango\Mvc\category;
+use bdrango\Mvc\model\user;
 
 $u = new user;
 

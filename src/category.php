@@ -1,7 +1,7 @@
 <?php
 
 
-namespace Mega\Mvc;
+namespace bdrango\Mvc;
 
 class category extends test
 {

@@ -2,7 +2,7 @@
 
 
 
-namespace Mega\Mvc;
+namespace bdrango\Mvc;
 
 class test
 {

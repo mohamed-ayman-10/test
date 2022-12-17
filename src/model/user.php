@@ -1,7 +1,7 @@
 <?php
 
 
-namespace Mega\Mvc\model;
+namespace bdrango\Mvc\model;
 
 class user
 {
